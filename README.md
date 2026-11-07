@@ -1,5 +1,7 @@
 # IMDB Sentiment Analysis
 
+Live app: https://sentiment-analysis-jxx9ihdebzziztgfngpue5.streamlit.app
+
 Classifies movie reviews as positive or negative. Data: IMDB reviews from Hugging Face
 (5,000 for training, 1,000 for testing).
 
